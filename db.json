@@ -4,35 +4,35 @@
             "id": "PT-FTO2NPDZ",
             "body": "Here's something interesting I learned today.",
             "title": "The Travel Bug",
-            "user": "henry",
+            "user": "Henry",
             "status": "failed"
         },
         {
             "id": "PT-JQT7XEKJ",
             "body": "Answering common questions from followers.",
             "title": "Life of a Developer",
-            "user": "charlie",
+            "user": "Charlie",
             "status": "success"
         },
         {
             "id": "PT-6K10788S",
             "body": "A quick update from my world.",
             "title": "Fitness First",
-            "user": "irene",
+            "user": "Irene",
             "status": "success"
         },
         {
             "id": "PT-F4W7DEFS",
             "body": "Here's something interesting I learned today.",
             "title": "Fitness First",
-            "user": "alice",
+            "user": "Alice",
             "status": "pending"
         },
         {
             "id": "PT-FKTGRMX2",
             "body": "This post discusses various trends in the industry.",
             "title": "Tech Talk",
-            "user": "grace",
+            "user": "Grace",
             "status": "failed"
         }
     ]
